@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/oakgov/:/",
-    "/content/oakgov/configuration:/.helix/config.json",
-    "/content/oakgov/metadata:/metadata.json"
+    "/content/universal-editor-eds-site/:/",
+    "/content/universal-editor-eds-site/configuration:/.helix/config.json",
+    "/content/universal-editor-eds-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/oakgov/"
+    "/content/universal-editor-eds-site/"
   ]
 }
